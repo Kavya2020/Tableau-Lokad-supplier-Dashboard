@@ -13,4 +13,4 @@ The worksheets are worked on the following queries after analysis of dataset,
 5. Vendor Wise Purchase billing report.
 
 https://public.tableau.com/profile/kavya7806#!/vizhome/Midterm-LokadFInal/Lokadsupplierdashboard
-
+![dd](https://user-images.githubusercontent.com/59784424/88340318-7d063e80-ccf0-11ea-8c52-c04096585f47.JPG)
